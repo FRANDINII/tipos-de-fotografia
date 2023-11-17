@@ -1,5 +1,5 @@
 # tipos-de-fotografia
-## Existem vários tipos de fotogrfia, dentre eles podemos citar:
+## Existem vários tipos de fotografia, dentre eles podemos citar:
 ## Fotografia abstrata, Fotografia aérea, Fotografia de arquitetura, Astrofotografia, Fotografia em preto e branco, Fotografia boudoir, Fotografia comercial, Fotografia documental...
 ## Hoje vou falar sobre a fotografia aérea.
 ## É um tipo de fotografia em que você captura imagens distantes, do ar. O tópico da fotografia aérea pode abranger muitos campos diferentes, como reconhecimento militar, geologia, agricultura e muito mais. Mas também pode usar diferentes meios de tecnologia, como drones, helicópteros ou aviões.
